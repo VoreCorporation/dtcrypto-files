@@ -321,16 +321,10 @@ $(document).ready(function() {
 	appMaster.masonryJs();
 	appMaster.fancyboxJs();
 	appMaster.owlCarousel();
-	appMaster.counterJs();
 	appMaster.priceRange();
 	appMaster.productZoom();
 	appMaster.preloaderJs();
 	appMaster.prettyPhoto();
-
-	//Swicher Style
-	// $("body").append('<div id="style-switcher"></div>');
-	// $("#style-switcher").load("theme-option/swicher.html");
-
 });
 
 /*----------------------------------------------
