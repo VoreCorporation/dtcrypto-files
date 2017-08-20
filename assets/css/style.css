@@ -7211,3 +7211,7 @@ ul.tags li {
 .choose-us .media:first-child {
     margin-top: 0;
 }
+#calculate-modal .modal-header{
+	background: rgba(25, 181, 254, 0.93);
+	color: #fff;
+}
