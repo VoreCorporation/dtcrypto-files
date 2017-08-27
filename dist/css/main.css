@@ -1921,8 +1921,8 @@ Components
           color: inherit; }
         .panel-accordion .panel-default .panel-heading .panel-title a[aria-expanded="true"] {
           color: #ffffff;
-          background-color: #62549a;
-          border: 1px solid #62549a; }
+          background-color: #4aa9e9;
+          border: 1px solid #4aa9e9; }
           .panel-accordion .panel-default .panel-heading .panel-title a[aria-expanded="true"]::after {
             content: "-"; }
         .panel-accordion .panel-default .panel-heading .panel-title a:hover, .panel-accordion .panel-default .panel-heading .panel-title a:active {
